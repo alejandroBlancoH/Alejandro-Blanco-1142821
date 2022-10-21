@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blanco\\Documents\\GitHub\\Alejandro-Blanco\\Semana 9\\Lab10_ABH_1142821\\Lab10_ABH_1142821.csproj": {}
+    "C:\\Users\\Blanco\\Documents\\Intro a la Progra\\2.0\\Lab\\Semana10_ABH\\Semana10_ABH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blanco\\Documents\\GitHub\\Alejandro-Blanco\\Semana 9\\Lab10_ABH_1142821\\Lab10_ABH_1142821.csproj": {
+    "C:\\Users\\Blanco\\Documents\\Intro a la Progra\\2.0\\Lab\\Semana10_ABH\\Semana10_ABH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blanco\\Documents\\GitHub\\Alejandro-Blanco\\Semana 9\\Lab10_ABH_1142821\\Lab10_ABH_1142821.csproj",
-        "projectName": "Lab10_ABH_1142821",
-        "projectPath": "C:\\Users\\Blanco\\Documents\\GitHub\\Alejandro-Blanco\\Semana 9\\Lab10_ABH_1142821\\Lab10_ABH_1142821.csproj",
+        "projectUniqueName": "C:\\Users\\Blanco\\Documents\\Intro a la Progra\\2.0\\Lab\\Semana10_ABH\\Semana10_ABH.csproj",
+        "projectName": "Semana10_ABH",
+        "projectPath": "C:\\Users\\Blanco\\Documents\\Intro a la Progra\\2.0\\Lab\\Semana10_ABH\\Semana10_ABH.csproj",
         "packagesPath": "C:\\Users\\Blanco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blanco\\Documents\\GitHub\\Alejandro-Blanco\\Semana 9\\Lab10_ABH_1142821\\obj\\",
+        "outputPath": "C:\\Users\\Blanco\\Documents\\Intro a la Progra\\2.0\\Lab\\Semana10_ABH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Blanco\\AppData\\Roaming\\NuGet\\NuGet.Config",
