@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Ejercicio en clase semana 7.cs" Link="Ejercicio en clase semana 7.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\TS\TsS8_ABH\bin\Debug\TsS8_ABH.exe.config
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\TS\TsS8_ABH\bin\Debug\TsS8_ABH.exe
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\TS\TsS8_ABH\bin\Debug\TsS8_ABH.pdb
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\TS\TsS8_ABH\obj\Debug\TsS8_ABH.csproj.AssemblyReference.cache
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\TS\TsS8_ABH\obj\Debug\TsS8_ABH.csproj.CoreCompileInputs.cache
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\TS\TsS8_ABH\obj\Debug\TsS8_ABH.exe
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\TS\TsS8_ABH\obj\Debug\TsS8_ABH.pdb

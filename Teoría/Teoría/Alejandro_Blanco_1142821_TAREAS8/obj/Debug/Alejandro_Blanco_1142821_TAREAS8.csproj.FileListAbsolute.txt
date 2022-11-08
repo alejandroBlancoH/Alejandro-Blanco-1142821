@@ -1,0 +1,7 @@
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Alejandro_Blanco_1142821_TAREAS8\bin\Debug\Alejandro_Blanco_1142821_TAREAS8.exe.config
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Alejandro_Blanco_1142821_TAREAS8\bin\Debug\Alejandro_Blanco_1142821_TAREAS8.exe
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Alejandro_Blanco_1142821_TAREAS8\bin\Debug\Alejandro_Blanco_1142821_TAREAS8.pdb
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Alejandro_Blanco_1142821_TAREAS8\obj\Debug\Alejandro_Blanco_1142821_TAREAS8.csproj.AssemblyReference.cache
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Alejandro_Blanco_1142821_TAREAS8\obj\Debug\Alejandro_Blanco_1142821_TAREAS8.csproj.CoreCompileInputs.cache
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Alejandro_Blanco_1142821_TAREAS8\obj\Debug\Alejandro_Blanco_1142821_TAREAS8.exe
+C:\Users\Blanco\Documents\Intro a la Progra\2.0\Teoría\Alejandro_Blanco_1142821_TAREAS8\obj\Debug\Alejandro_Blanco_1142821_TAREAS8.pdb
