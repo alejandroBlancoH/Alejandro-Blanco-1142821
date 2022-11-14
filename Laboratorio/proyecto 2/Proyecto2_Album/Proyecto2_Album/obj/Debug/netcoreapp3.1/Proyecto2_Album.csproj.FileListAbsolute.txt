@@ -1,0 +1,14 @@
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.exe
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.deps.json
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.json
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.dev.json
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.AssemblyReference.cache
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfoInputs.cache
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfo.cs
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.CoreCompileInputs.cache
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\Blanco\Downloads\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.genruntimeconfig.cache
